@@ -68,6 +68,7 @@ img {
     padding: 5px;
     margin: 10px auto;
     border-top-right-radius: 30px;
+    width: 90%;
 }
 
 video {
@@ -75,6 +76,7 @@ video {
     padding: 5px;
     margin: 10px auto;
     border-top-right-radius: 30px;
+    width: 90%;
 }
 
 figure {
